@@ -24,6 +24,10 @@ Now you can use this app to retrieve any Drive Ids of any resources your user ha
 ![alt text](import-solution-authenticate.png)
 4. Enjoy the app 😃.
 
+## Pro Tip
+Use the Site name from the URL to search the Site faster!
+![alt text](SiteUrlTip.png)
+
 ## License
 This project is under the MIT license. This means that you can do whatever you want with it, but never blame me if you break it! 😀😀
 
